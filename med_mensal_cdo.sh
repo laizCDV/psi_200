@@ -1,6 +1,3 @@
-
-
-
 for file in *.grb2; do
   base_name=$(basename "$file" .grb2)
 
